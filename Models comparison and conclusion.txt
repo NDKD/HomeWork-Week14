@@ -1,0 +1,8 @@
+Which model has a lower loss?
+LSTM RNN on stock predictor on closing was showing the loss: 0.0534 whereas STM RNN on stock predictor FNG was showing the loss of 20.44
+
+Which model tracks the actual values better over time? 
+LSTM RNN on stock predictor on closing tracks gave the better predictions , thus tracks the actual values better over time.
+
+Which window size works best for the model?
+window_size = 10 works best out of the two models that were evaluated.
